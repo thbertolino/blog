@@ -8,36 +8,36 @@ categories: jekyll update
 
 > This article was originally posted by me in Brazilian Portuguese on [Medium](https://thbertolino.medium.com/privacidade-digital-e35454e337c6/){:target="_blank"} and here comes a English translation.
 
-Privacidade digital é um dos pontos principais dentro da nossa vida conectada, e isso é tão importante quanto lembrar de trancar a casa quando sair.
+Digital privacy is one of the main points within our connected life, and this is as important as remembering to lock the house when you go out.
 
-O NerdTech desta semana abordou o tema de Autodefesa Digital (link no post). Como podemos nos proteger de possíveis imprevistos como roubos, percas de senha, ataques e golpes. Esse assunto tem sido catapultado nas ultimas semanas por conta de grandes casos de roubo de celulares no Brasil, não para vendê-los, mas sim para roubar os dados bancários dos usuários! Dois podcasts que também trataram desse assunto na ultima semana foram o Área de Transferência e o MacMagazine no Ar (links no post).
+This week [NerdTech's](https://jovemnerd.com.br/nerdcast/nerdtech/autodefesa-digital/) addressed the topic of Digital Self-Defense. How can we protect ourselves from possible unforeseen events such as theft, loss of password, attacks and scams? This was aborted in recent weeks due to the large cases of cell phone theft in Brazil — not to sell them, but to steal users' bank details! Two podcasts that I also listen to also addressed this. They were [Área de Tranferência](https://gigahertz.fm/podcasts/adt/231) and [MacMagazine no Ar](https://macmagazine.com.br/post/2021/06/25/macmagazine-no-ar-430-roubo-de-celulares-pip-no-youtube-nubank-no-apple-pay-e-mais/).
 
-Por conta disso, decidi reunir dentro dessa postagem algumas das principais medidas que podemos tomar para nos prevenirmos desses problemas.
+For this reason, decide to gather in this post some of the main measures that we can take to prevent ourselves from these problems.
 
-Os tópicos estarão divididos em uma lista numerada, mas não há ranking de qual medida tomada é melhor ou pior. Siga todas!
+The will remain divided into a numbered list, but there is no ranking of which measure taken is better or worse. Follow them all!
 
-JAMAIS deixe suas senhas com fácil acesso dentro de um bloco de notas, ou aplicativo fácil de ser localizado, e tente ao máximo diversificar para cada aplicativo que você utilize.
-Use um serviço que agregue suas senhas em um lugar seguro, como OnePassword, uma espécie de “cofre digital”. (Só não vá esquecer a senha desse cofre! 🤦‍♂️).
-Uma boa dica que complementa a anterior, é dividir essa senha entre duas pessoas de confiança. Metade com uma, e a outra metade com outra pessoa. Para caso você venha a falecer.
-Muito cuidado com e-mails de redefinição de senha, e SEMPRE use autenticação de duas etapas.
-Não informe dados sigilosos como senha do cartão, de serviços, ou qualquer outra coisa por meio de ligações que tenha recebido. Isso vale também para informar números de recuperação de conta que chegam no seu SMS ou e-mail, para outras pessoas que te ligaram.
-Caso seja roubado com o celular desbloqueado, tente ser o mais rápido possível para bloquear o acesso a todas as suas contas, ou até mesmo ao aparelho.
-Desative a leitura de mensagens, e-mails e outros serviços na tela bloqueada. Caso seu celular seja roubado, o bandido não poderá ver uma possível mensagem com código de recuperação de conta.
-Não adicione em seus aplicativos de geolocalização locais como “casa”, “trabalho”, entre outros. Tente ser o mais discreto possível quando se trata de geolocalização, para caso de ataques hackers.
-Isso também vale para sua lista de contatos, não deixe contatos como “mãe”, “pai”, “irmão” , “amor”, na sua lista. Isso vai facilitar bastante a vida dos criminosos na hora dos golpes.
-Procure saber sobre encriptação de discos, caso seu notebook seja roubado, ele pode ser facilmente aberto e seus dados dentro do HD serem expostos.
-Esses foram os 10 principais tópicos que eu achei interessante em abordar a respeito desse tema.
+1. NEVER leave your passwords easily accessible within a notepad, or an application that is easy to find, and try your best to diversify for each application you use.
 
-Compartilhem essas informações!
+2. Use a service that aggregates your passwords in a safe place, such as [OnePassword](https://1password.com/), [Passwords by Apple](https://support.apple.com/en-us/HT211145), a kind of “digital vault”. (Just don't forget the password to that vault! 🤦‍♂️).
 
-Links citados:
+3. A good tip that complements the previous one is to share this password between two trusted people. Half with one, half with someone else. In case you passed away (no one know tomorrow day).
 
-NerdTech 65 — Autodefesa Digital
+4. Be very careful with your passwords and e-mails, and ALWAYS use two-step authentication.
 
-Área de Transferência 231 — Senhas.txt
+5. Do not inform confidential data, such as card password, or anything else through calls that you have received. This also applies to informing the account recovery numbers that arrive in your SMS number or email, to other people who called to you.
 
-MacMagazine no Ar 430 — roubo de celulares, PiP no YouTube, Nubank no Apple Pay e mais!
+6. If your cell phone is stolen, try to be as quick as possible to block access to all your accounts, or even the device.
 
-Minhas redes:
+7. Disable the reading of messages, emails and other on blocked screen. If your cell phone is stolen, the thief will not be able to see a possible message with an account recovery code.
 
-LinkedIn, Twitter, Instagram.
+8. Do not add locations such as “Home”, “Work”, and others to your geolocation applications (Google Maps, Apple Maps). Try to be as discreet as possible when it comes to geolocation, in case of hacker attacks.
+
+9. This also applies to your contact list, do not leave contacts like “Mom", “Dad", “Brother”, in your list. This will make life easier for criminals when it comes to further.
+
+10. Check out about disk encryption. If your notebook is stolen, it can be easily opened and your data inside the Hard Drive exposed.
+
+These were the Top 10 tips that I found interesting to address to this topic.
+
+Share that informations!
+
+### Att, Thiago Bertolino.
