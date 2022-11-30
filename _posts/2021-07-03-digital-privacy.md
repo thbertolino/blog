@@ -40,4 +40,4 @@ These were the Top 10 tips that I found interesting to address to this topic.
 
 Share that informations!
 
-### Att, Thiago Bertolino.
+Att, Thiago Bertolino.
